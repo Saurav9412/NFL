@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit NFL.py
+web: sh setup.sh && streamlit run NFL.py
